@@ -315,7 +315,7 @@ render(){
 					</div>
 
 					<div className="mv3">
-					<label className="db fw6 lh-copy f6 w-100" htmlFor="n_event"></label>
+					<label className="db fw6 lh-copy f6 w-100" htmlFor="interested_y"></label>
 					<fieldset>
 						<legend>Saresti interessato?</legend>
 						<div>
